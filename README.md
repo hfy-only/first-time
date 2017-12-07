@@ -1,3 +1,3 @@
 # first-time
-第一次做这个，试试水
+//没看懂
 just another repository
